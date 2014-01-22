@@ -1,0 +1,3 @@
+[submodule "osgi-demo-bookstore"]
+	path = osgi-demo-bookstore
+	url = https://github.com/ryu1/osgi-demo-bookstore.git
