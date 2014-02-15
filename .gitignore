@@ -1,1 +1,44 @@
 OSGi-Blueprint-Sample/blueprint-sample/target
+.classpath
+.project
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_04_Code/com.packtpub.felix.bookshelf-inventory-api/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_04_Code/com.packtpub.felix.bookshelf-inventory-impl-mock/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_05_Code/com.packtpub.felix.bookshelf-inventory-api/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_05_Code/com.packtpub.felix.bookshelf-inventory-impl-mock/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_06_Code/com.packtpub.felix.bookshelf-service/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_07_Code/com.packtpub.felix.bookshelf-inventory-impl-mock/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_07_Code/com.packtpub.felix.bookshelf-service/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_07_Code/com.packtpub.felix.bookshelf-service-tui/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_08_Code/com.packtpub.felix.bookshelf-inventory-impl-mock/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_08_Code/com.packtpub.felix.bookshelf-service/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_08_Code/com.packtpub.felix.bookshelf-service-tui/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_09_Code/com.packtpub.felix.bookshelf-inventory-impl-mock/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_09_Code/com.packtpub.felix.bookshelf-service/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_09_Code/com.packtpub.felix.bookshelf-service-tui/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_10_Code/com.packtpub.felix.bookshelf-log-api/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_10_Code/com.packtpub.felix.bookshelf-log-impl/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_10_Code/com.packtpub.felix.bookshelf-service/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_10_Code/com.packtpub.felix.bookshelf-service-tui/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_10_Code/com.packtpub.felix.bookshelf-servlet/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_11_Code/com.packtpub.felix.bookshelf-servlet/.settings
+OSGi and Apache Felix 3.0 Beginner's Guide/1384OS_13_Code/com.packtpub.felix.bookshelf-webapp/.settings
+OSGi-Blueprint-Sample/blueprint-sample/.settings
+iPojo/ipojo-distribution-1.11.0 2/bin
+iPojo/ipojo-distribution-1.11.0 2/bundle
+iPojo/ipojo-distribution-1.11.0 2/conf
+iPojo/ipojo-distribution-1.11.0 2/felix-cache
+iPojo/ipojo-distribution-1.11.0 2/LICENSE
+iPojo/ipojo-distribution-1.11.0 2/NOTICE
+iPojo/ipojo-distribution-1.11.0 2/DEPENDENCIES
+iPojo/ipojo-webconsole-quicktart-1.9.0-SNAPSHOT/felix-framework-4.2.1
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/dist/ipojo-distribution-1.11.0/bin
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/dist
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/ipojo-distribution-1.11.0
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/solution/spell.checker/output
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/solution/spell.checker.gui/output
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/solution/spell.english/output
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/spell.checker/output
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/spell.checker.gui/output
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/spell.english/output
+iPojo/org.apache.felix.ipojo.distribution.10mintutorial-1.11.0/spell.services/output
+iPojo/org.apache.felix.ipojo.distribution.maventutorial-1.11.0/.settings

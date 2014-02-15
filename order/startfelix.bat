@@ -1,0 +1,1 @@
+java -Dlog4j.configuration=file:log4j.properties -Dfelix.config.properties=file:/felix-1.0.4/conf/config.properties -jar /felix-1.0.4/bin/felix.jar

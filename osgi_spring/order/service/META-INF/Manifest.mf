@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Order Service
+Bundle-SymbolicName: orderservice
+Bundle-Version: 1.0.0
+Import-Package: org.springframework.beans.factory.xml, org.springframework.aop, org.springframework.aop.framework, org.aopalliance.aop, org.xml.sax, org.osgi.framework, org.springframework.osgi.service.importer.support, org.springframework.beans.propertyeditors, org.springframework.osgi.service.exporter.support, org.springframework.osgi.service.exporter
+Export-Package: order

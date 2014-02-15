@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Order Service
+Bundle-SymbolicName: orderservice
+Bundle-Version: 1.0.0
+Export-Package: order
+Bundle-Activator: order.impl.OrderServiceImpl
+Import-Package: org.osgi.framework
+

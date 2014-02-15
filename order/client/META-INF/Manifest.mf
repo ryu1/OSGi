@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Order Service Client
+Bundle-SymbolicName: orderclient
+Bundle-Version: 1.0.0
+Bundle-Activator: order.client.OrderClient
+Import-Package: org.osgi.framework, org.osgi.util.tracker, order
+
